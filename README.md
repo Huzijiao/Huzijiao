@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Huzijiao
-- 👀 I’m interested in Big Data
+- 👀 I’m interested in Computer Version, Deep Learning, Reinforcement Learning.
 - 🌱 I’m currently learning in BIT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: huuzijiao@gmail.com
 
 <!---
 Huzijiao/Huzijiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
