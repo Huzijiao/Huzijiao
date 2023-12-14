@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Huzijiao
-- 👀 I’m interested in Computer Version, Deep Learning, Reinforcement Learning.
-- 🌱 I’m currently learning in BIT
+- 👋 Hi, I’m Zijiao Hu.
+- 👀 I’m interested in Computer Vision, Deep Learning, Reinforcement Learning.
+- 🌱 I’m currently learning in Beijing Institute of Technology.
 - 📫 How to reach me: huuzijiao@gmail.com
 
 <!---
