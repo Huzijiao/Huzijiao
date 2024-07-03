@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zijiao Hu.
-- 👀 I’m interested in Computer Vision, Deep Learning, Reinforcement Learning.
-- 🌱 I’m currently learning in Beijing Institute of Technology.
+- 🌱 I’m currently working in impr.
 - 📫 How to reach me: huuzijiao@gmail.com
 
 <!---
