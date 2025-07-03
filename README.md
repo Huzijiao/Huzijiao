@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zijiao Hu.
-- 🌱 I’m currently working in impr.
+- 🌱 I’m currently studying at USYD. Research interest: AI for wireless communications.
 - 📫 How to reach me: huuzijiao@gmail.com
 
 <!---
